@@ -8,5 +8,12 @@ Diabetic Retinopathy(DR) is an eye disease. It has five stages. In this implemen
 # Dataset
 Kaggle Diabetic Retinopathy dataset
 
+# Pre-procssing
+* Resizing
+* Pixel normalization
+
 # Results
-* Train
+* Training accuracy = 73.65%
+* Validation accuracy = 71.11%
+
+![trsd](https://user-images.githubusercontent.com/42005054/82912838-29df6c00-9f8b-11ea-99b8-ab537ce551fb.PNG)
